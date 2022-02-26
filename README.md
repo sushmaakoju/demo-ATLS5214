@@ -1,1 +1,36 @@
-# theorem-proving
+# Course project for Big Data Arhchitecture ATLS 5214
+#### This project is for demonstrating the concepts from Big Data Arhcitecture class: Google Cloud, Docker, Terraform.
+
+#### About the project:
+
+The modules for demonstrating Big Data Architecture were selected 
+based on my learning as well as past work experience along with the intent to 
+research further as well as with the intent to publish.
+Thus the implementation is not directly provided here due to possible research and publication goals.
+
+##### Sub tasks for the project:
+
+This project demonstrates proof-of-concept implementation of following modules:
+
+*Basics from AIMA, 4th edition*
+- Simple mathematical theorem prover represented in symbols 
+<a href="https://github.com/sushmaakoju/automated-theorem-proving/tree/1ba73b8b13168f3d2a12ead31853861d29febe00">Automated Theorem Prover</a>
+- Theorem prover for first of order logic statements from brute force parser for the grammar. <a href="https://github.com/sushmaakoju/first-order-logic/tree/86cde01c6d03fa39e6cdd4b50c26339211e19adf"> First Order Logic</a>
+- Question and Answer generation from premise, conclusion sentence pairs from text corpus with first order logic conversion using brute force approach. <a href="https://github.com/sushmaakoju/first-order-logic/tree/86cde01c6d03fa39e6cdd4b50c26339211e19adf"> First Order Logic</a>
+- Natural Language Inference Engine using a Language Model. <a href="https://github.com/sushmaakoju/natural-language-inference/tree/1d5445a27b401c772d78c0ca6113b8d3783f0780"> NLI</a>
+
+*Pending approval from researcher for replication*
+- This is a theorem prover using first order logic statements from natural language corpus.
+### Code of Conduct and Usage Restrictions:
+
+Due to research content, this repository implicitly expects to contact author for permissions and thus can only be cited as a reference and replication upon permission from the author of this reposiroty. Additionally, also requires researcher approval for commercial use which is the main reason this repository does not have an Open License.
+
+Documentation: Please refer <a href="https://github.com/sushmaakoju/demo-ATLS5214/blob/main/CODE_OF_CONDUCT.md">code of conduct</a> for this repository.
+
+### Author:
+[Sushma Anand Akoju](https://github.com/sushmaakoju/demo-ATLS5214)
+### References:
+
+1. AIMA, 4th edition <a href="http://aima.cs.berkeley.edu/"> AIMA </a>
+2. AIMA, 4th edition Pseudocode for First Order Logic <a href="https://github.com/aimacode/aima-pseudocode"> AIMA </a>
+

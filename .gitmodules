@@ -4,3 +4,6 @@
 [submodule "first-order-logic"]
 	path = first-order-logic
 	url = https://github.com/sushmaakoju/first-order-logic
+[submodule "natural-language-inference"]
+	path = natural-language-inference
+	url = https://github.com/sushmaakoju/natural-language-inference
