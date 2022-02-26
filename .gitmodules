@@ -1,0 +1,3 @@
+[submodule "automated-theorem-proving"]
+	path = automated-theorem-proving
+	url = https://github.com/sushmaakoju/automated-theorem-proving
