@@ -7,3 +7,5 @@
 [submodule "natural-language-inference"]
 	path = natural-language-inference
 	url = https://github.com/sushmaakoju/natural-language-inference
+[submodule ".\\automated-theorem-proving\\"]
+	url = https://github.com/sushmaakoju/automated-theorem-proving.git
