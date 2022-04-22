@@ -1,5 +1,11 @@
 # Course project for Big Data Arhchitecture ATLS 5214
-#### This project is for demonstrating the concepts from Big Data Arhcitecture class: Google Cloud, Docker, Terraform.
+#### This project is for demonstrating the concepts from Big Data Arhcitecture class: Google Cloud
+
+#### The website and presentation:
+[Theorem Prover: https://theorem-prover-4182022.uc.r.appspot.com/](https://theorem-prover-4182022.uc.r.appspot.com/)
+
+[Theorem Prover Presentation](https://github.com/sushmaakoju/demo-ATLS5214/blob/main/Theorem%20Prover.pdf)
+
 
 #### About the project:
 
@@ -16,8 +22,11 @@ This project demonstrates proof-of-concept implementation of following modules:
 - Simple mathematical theorem prover represented in symbols 
 <a href="https://github.com/sushmaakoju/automated-theorem-proving/tree/1ba73b8b13168f3d2a12ead31853861d29febe00">Automated Theorem Prover</a>
 - Theorem prover for first of order logic statements from brute force parser for the grammar. <a href="https://github.com/sushmaakoju/first-order-logic/tree/86cde01c6d03fa39e6cdd4b50c26339211e19adf"> First Order Logic</a>
-- Question and Answer generation from premise, conclusion sentence pairs from text corpus with first order logic conversion using brute force approach. <a href="https://github.com/sushmaakoju/first-order-logic/tree/86cde01c6d03fa39e6cdd4b50c26339211e19adf"> First Order Logic</a>
-- Natural Language Inference Engine using a Language Model. <a href="https://github.com/sushmaakoju/natural-language-inference/tree/1d5445a27b401c772d78c0ca6113b8d3783f0780"> NLI</a>
+- First order logic conversion using brute force approach. <a href="https://github.com/sushmaakoju/first-order-logic/tree/86cde01c6d03fa39e6cdd4b50c26339211e19adf"> First Order Logic</a></strike>
+- <strike>Natural Language Inference Engine using a Language Model. <a href="https://github.com/sushmaakoju/natural-language-inference/tree/1d5445a27b401c772d78c0ca6113b8d3783f0780"> NLI</a> </strike>
+
+### Z3 Prover (Microsoft Research)
+- [Z3 Prover Examples Colab Notebook](https://github.com/sushmaakoju/demo-ATLS5214/blob/main/z3_prover_examples.ipynb)
 
 *Pending approval from researcher for replication*
 - This is a theorem prover using first order logic statements from natural language corpus.
