@@ -1,5 +1,11 @@
 # Course project for Big Data Arhchitecture ATLS 5214
-#### This project is for demonstrating the concepts from Big Data Arhcitecture class: Google Cloud
+This project is for demonstrating the concepts from Big Data Arhcitecture class: Google Cloud and industry best practices for deplyoment.
+
+## research goal
+
+It was an exploratory self-study to learn about Theorem Provers and Turing Completeness.
+
+This was part of the Big Data Architecture course during my Masters in Data Science at University of Colorado Boulder, Spring 2022. The Big Data Architecture course only focusses on deployment, cloud environments and developing apis along with industry best practices.
 
 #### The website and presentation:
 [Theorem Prover: https://theorem-prover-4182022.uc.r.appspot.com/](https://theorem-prover-4182022.uc.r.appspot.com/)
@@ -36,8 +42,15 @@ Due to research content, this repository implicitly expects to contact author fo
 
 Documentation: Please refer <a href="https://github.com/sushmaakoju/demo-ATLS5214/blob/main/CODE_OF_CONDUCT.md">code of conduct</a> for this repository.
 
-### Author:
+## Author (idea and implementation):
 [Sushma Anand Akoju](https://github.com/sushmaakoju/demo-ATLS5214)
+
+#### Google Gloud deployment help:
+Sagar - CS, University of Colorado Boulder.
+**Documented the guidelines and steps:** <a href="https://docs.google.com/document/d/1WvGXkunjrA8_EkvV5E-KLgv-t5DTDvTVo
+gJZCgk5mSA/edit?usp=sharing">Google Cloud deployment with GitHub Actions</a>
+
+
 ### References:
 
 1. AIMA, 4th edition <a href="http://aima.cs.berkeley.edu/"> AIMA </a>
